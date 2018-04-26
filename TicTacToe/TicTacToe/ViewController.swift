@@ -9,6 +9,23 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var whichPlayer = 1
+    
+    @IBAction func placeImage(_ sender: AnyObject) {
+        
+        if (whichPlayer == 1)
+        {
+            sender.setImage(UIImage(named: "Cross.png"), for: UIControlState())
+            whichPlayer = 2
+        }
+        else
+        {
+            sender.setImage(UIImage(named: "Nought.png"), for: UIControlState())
+            whichPlayer = 1
+        }
+    }
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()

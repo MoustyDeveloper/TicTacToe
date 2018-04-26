@@ -26,81 +26,129 @@
                                 <rect key="frame" x="28" y="199" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Lo7-YY-46g"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="15" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="A1L-1p-Hxi">
                                 <rect key="frame" x="210" y="416" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="V5f-6l-Tfd"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="14" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9Ro-S1-oet">
                                 <rect key="frame" x="118" y="416" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="RN9-78-ro3"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="13" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K9j-Fm-lmM">
                                 <rect key="frame" x="28" y="416" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Va6-gA-Nlr"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="9" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x2L-U4-rYC">
                                 <rect key="frame" x="28" y="344" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="NWi-rY-YHg"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="10" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hR1-Zd-I8o">
                                 <rect key="frame" x="118" y="344" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="M3t-Qw-K3U"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="11" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fy1-s5-YiK">
                                 <rect key="frame" x="210" y="344" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hAk-fs-PS7"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="12" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xke-iL-Ye9">
                                 <rect key="frame" x="299" y="344" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nDF-qa-7nZ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="8" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9J8-kg-u91">
                                 <rect key="frame" x="299" y="271" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MMi-Kv-Rw4"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="7" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EVJ-Ot-gip">
                                 <rect key="frame" x="210" y="271" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sAI-jq-Wuf"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="5" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="R2Q-3j-eeC">
                                 <rect key="frame" x="28" y="271" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mWb-YT-8Dp"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="6" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n7N-4r-UGG">
                                 <rect key="frame" x="118" y="271" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="42Y-rK-TxY"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="4" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4wF-1K-eDy">
                                 <rect key="frame" x="299" y="199" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UKN-4B-Fxr"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="3" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sTQ-qQ-ex1">
                                 <rect key="frame" x="210" y="200" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tWY-Au-9W3"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Sl-2I-djf">
                                 <rect key="frame" x="118" y="200" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="vDo-CU-d8C"/>
+                                </connections>
                             </button>
                             <button opaque="NO" tag="16" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XJr-Cp-xoY">
                                 <rect key="frame" x="299" y="416" width="84" height="65"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" image="Cross"/>
+                                <connections>
+                                    <action selector="placeImage:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hOM-hb-AeG"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
